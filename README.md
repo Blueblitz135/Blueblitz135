@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A Computer Engineering student at the University of Waterloo who passionate about software development and AI</p>
+<p align="left">A Computer Engineering student at the University of Waterloo who is passionate about software development and AI</p>
 
 ###
 
